@@ -213,18 +213,12 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
-    },
-    "nosto_product": {
-      "type": "nosto-product",
-      "settings": {
-      }
     }
   },
   "order": [
     "main",
     "image-with-text",
     "multicolumn",
-    "related-products",
-    "nosto_product"
+    "related-products"
   ]
 }
